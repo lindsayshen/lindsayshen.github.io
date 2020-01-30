@@ -433,6 +433,8 @@ h3.tittle {
 
 .abt-block {
     padding: 4.5em 3em 3em;
+    block-size: 395px;
+    writing-mode: horizontal-tb;
     position: relative;
     border-radius: 10px;
     -webkit-border-radius: 10px;
